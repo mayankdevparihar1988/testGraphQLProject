@@ -59,3 +59,17 @@ mutation{
             description:"With the testing ability", 
              companyId:"SJV0-wdOM")
 }
+
+* When mutation is returning a type (in the following example mutation returns type Job)
+
+mutation{
+  createJob(title:"Tester",
+            description:"With the testing ability", 
+             companyId:"SJV0-wdOM"){
+     id
+    title
+    company {
+      name
+    }
+  }
+}

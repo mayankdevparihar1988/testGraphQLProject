@@ -34,5 +34,20 @@
     "companyId": "SJV0-wdOM",
     "title": "Tester",
     "description": "With the testing ability"
+  },
+  {
+    "id": "S1CziKrUu"
+  },
+  {
+    "id": "Hk6XjFHLu",
+    "companyId": "SJV0-wdOM",
+    "title": "FrontEnd Developer",
+    "description": "Need to know react"
+  },
+  {
+    "id": "S1FDWuYUu",
+    "companyId": "SJV0-wdOM",
+    "title": "Junior FrontEnd Developer ",
+    "description": "Need to know react very good"
   }
 ]
